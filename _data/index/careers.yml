@@ -2,29 +2,43 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
     detail: Google
-    i18n: company_a
+    i18n: google
   desc:
-    detail: I am joining Google from September 2019 as a Software developer in the Google India Office.
-    i18n: company_a_desc
+    detail: Software developer in the Google India Office. Working on Google nest in tools and infrastructure.
+    i18n: google_desc
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: Sep. 2019
+    i18n: google_date
   job:
-    detail: CTO
-    i18n: company_a_job
-  icon: fa-plus-square
+    detail: Software Engineer
+    i18n: google_job
+  icon: fa-google
   present: true
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Goldman Sachs
+    i18n: gs
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: Worked as an Analyst in the Asset Data team in the Risk Division.
+    i18n: gs_desc
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: Jun. 2018
+    i18n: gs_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: Analyst
+    i18n: gs_job
+  icon: fa-plus-square
+
+- name:
+    detail: Kivi Capital
+    i18n: kivi
+  desc:
+    detail: Summer Intern as an Algorithmic Trading Analyst. Worked at certain High frequency and Medium frequency trading strategies.
+    i18n: kivi_desc
+  date:
+    detail: Jun. 2017
+    i18n: kivi_date
+  job:
+    detail: Summer Intern
+    i18n: kivi_job
   icon: fa-plus-square
